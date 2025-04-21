@@ -5,7 +5,7 @@ I'm Abhishek Vishwakarma, pursuing a B.E. in Artificial Intelligence and Data Sc
 * 🌍  I'm based in Mumbai
 * 🖥️  See my portfolio at [MyProtfolio](http://abhishekv.vercel.app/)
 * ✉️  You can contact me at [iamabhishekvishwakarma7@gmail.com](mailto:iamabhishekvishwakarma7@gmail.com)
-* 🚀  I'm currently working on [Animevision](http://animevision.streamlit.app/)
+* 🚀  I'm currently working on [InstaNews](https://instanews-urtk.onrender.com/)
 * 🧠  I'm learning Langchain, crewAI, ReFlex, AWS
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I enjoy watching anime for relaxation and inspiration.
